@@ -1,0 +1,6 @@
+
+*-lock.*
+build
+coverage
+.next
+.vercel
