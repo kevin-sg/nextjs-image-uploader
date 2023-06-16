@@ -19,7 +19,7 @@ export const Main: FCC = ({ children }) => {
 	return (
 		<main
 			className={c(
-				'w-full flex min-h-screen justify-center items-center',
+				'w-full flex min-h-screen justify-center items-center flex-col gap-2 md:gap-10',
 				poppins.variable,
 				robotoMono.variable,
 				'font-sans',
